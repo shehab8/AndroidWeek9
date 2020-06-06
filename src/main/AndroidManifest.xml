@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.shehab.mynotebook2">
+    package="com.shehab.notestofirebase">
 
     <application
         android:allowBackup="true"
